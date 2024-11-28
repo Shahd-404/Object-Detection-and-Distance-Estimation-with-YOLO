@@ -1,4 +1,4 @@
-# Object Detection and Distance Estimation with YOLO
+# YOLO-based Object Detection and Distance Estimation with Audio Output
 
 ![Screenshot](Screenshot%202024-11-28%20230030.png)
 
