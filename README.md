@@ -1,4 +1,7 @@
 # Object Detection and Distance Estimation with YOLO
+
+![Screenshot](Screenshot%202024-11-28%20230030.png)
+
 ## 1. Setup the Environment
 ### Install required libraries and dependencies.
 ### Load the YOLO pre-trained weights and configuration files.
