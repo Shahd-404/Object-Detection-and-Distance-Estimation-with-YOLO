@@ -28,7 +28,7 @@
 ## 9. User Interaction
 ### Prompt the user to input the object to detect (e.g., "person", "car").
 ### Suggest possible matches if the user’s input is incorrect.
-## 12. Display Results
+## 10. Display Results
 ### Display the detected objects with bounding boxes on the image or video stream.
 ### Show the estimated distances of the detected objects.
 
